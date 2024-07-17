@@ -1,4 +1,4 @@
-("![bio-outreach-nigeria-placeholder](https://github.com/user-attachments/assets/6c4e1c23-f8f7-459b-8dfe-82c9754ed865)
+[bio-outreach-nigeria-placeholder](https://github.com/user-attachments/assets/6c4e1c23-f8f7-459b-8dfe-82c9754ed865)
 
 **Open Science for Bioinformaticians  **
 (An Introductory Two-Day Virtual Workshop)
