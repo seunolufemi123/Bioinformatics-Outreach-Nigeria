@@ -1,5 +1,5 @@
 # Open Science for Bioinformaticians
-## (An Introductory Two-Day Virtual Workshop)
+### (An Introductory Two-Day Virtual Workshop)
 ![Bio Outreach Nigeria Placeholder](https://github.com/user-attachments/assets/6c4e1c23-f8f7-459b-8dfe-82c9754ed865)
 
 We are excited to announce a two-day virtual introductory workshop on open science, specifically designed for young professionals in Nigeria who are eager to build expertise in bioinformatics. This workshop aims to equip participants with a solid foundation in open science principles and practical skills in bioinformatics tools and platforms.
