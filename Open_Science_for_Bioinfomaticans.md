@@ -19,12 +19,12 @@ We aim to select 25-30 motivated individuals who meet specific criteria for our 
 Interested candidates are invited to apply by filling out the application form. Applications will be reviewed based on the selection criteria, and successful applicants will be notified at least a week before the workshop.
 Join us for this transformative workshop and become a part of the next generation of bioinformatics experts who champion open science principles.
 
-Schedule 
+### Schedule 
 Platform: Google meet/zoom
 Moderators: Seun Olufemi and Emmanuel Adamolekun will serve as the hosts and moderate  the workshop throughout the training session
 Facilitators: Our selection of facilitators will be based on their expertise and availabilities, and we will be relying on our network with the global open science community to achieve this, and this is subject to change.    
 Training cost:  The training is free of cost 
-Date:   15- 16 / August/ 2024  (proposed)
+Date: 15- 16 / August/ 2024  
 Time: 3:00- 5:30 pm   
 
 
