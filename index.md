@@ -27,5 +27,51 @@ Training cost:  The training is free of cost
 Date: 15- 16 / August/ 2024  
 Time: 3:00- 5:30 pm   
 
+| Time                | Session Title and Details                                                  | Facilitators/ Instructor                     |
+|---------------------|----------------------------------------------------------------------------|----------------------------------------------|
+| 03:00 PM - 03:05 PM |**Welcome and Introduction**                                                  | Seun Olufemi & Emmanuel Adamolekun           |
+|                     | - Welcome remarks by the host                                              |                                              |
+|                     | - Overview of the workshop objectives and agenda                           |                                              |
+|                     | - Introduction to facilitators and participants                            |                                              |
+| 03:05 PM - 03:35 PM | **Introduction to Open Science**                                               | Dr. Malvika Sharan (Alan Turing and OLS )                          |
+|                     |                                                                            |                                              |
+|                     | - Principles and importance of open science                                | |
+|                     | - Benefits of open science for bioinformatics                              |                                              |
+|                     | - Brief case studies of successful open science projects                   |                                  |
+| 03:35 PM - 04:15 PM | **Open Science Tools and Platforms**                                         | Laura Ondari  (BHKI)                               |
+|                     |                                                                            |                                              |
+|                     | - Introduction to open science platforms (e.g., GitHub, Zenodo)            |                                        |
+|                     | - Collaborative tools for research and data sharing                        |                                              |
+|                     | - Demonstration of basic operations on these platforms                     |                                |
+| 04:15 PM - 5:20 PM  | **Hands-on Session: Setting Up Open Science Platforms**                       | Pauline Karega & Michael Landi (BHKI )         |
+|                     |                                                                            |                                         |
+|                     | - Guided activity: Setting up accounts on GitHub and Zenodo                |                                              |
+|                     | - Basic operations: Creating repositories, uploading data, version control |                                 |
+| 05:20 PM - 05:30 PM | **Interactive Q&A and Wrap-up**                                                | Pauline Karega & Michael Landi  (BHKI)            |
+|                     |                                                                            |                                       |
+|                     |                                                                            |                                              |
+|                     | - Open floor for questions and answers                                     |                                          |
+|                     | - Summary of key points from Day 1                                         |                                              |
+|                     | - Overview of Day 2 agenda                                                 |                                 |
+| Day 2               | **Recap of Day 1 and Overview of Day 2 **                                      | Seun Olufemi & Emmanuel Adamolekun           |
+| 03:05 PM - 03:35 PM | Data Management and Sharing in Bioinformatics                              | Dr. Sara El-Gebali (Datacite & FAIRpoints)                           |
+|                     |                                                                            |                                              |
+|                     | - Best practices for data management                                       |                         |
+|                     | - Data sharing policies and ethics                                         |                                              |
+|                     | - Introduction to open data repositories and databases                     |                                 |
+| 03:35 AM - 04:10 PM | **Ethics and Legal Aspects of Open Science**                                   | Dr. Yo Yehudi (OLS)                               |
+|                     |                                                                            |                                              |
+|                     | - Intellectual property and licensing in open science                      |                                          |
+|                     | - Ethical considerations in open science                                   |                                              |
+|                     | - Navigating legal challenges                                              |                                   |
+| 04:15 PM - 04:50 PM | **Hands-on Session: Using Open Science Platforms for Bioinformatics Projects**| Deborah Udoh  (OLS)                               |
+|                     |                                                                            |                                              |
+|                     |                                                                            |                                         |
+|                     |                                                                            |                                              |
+|                     | - Guided activity: Advanced operations on GitHub/Zenodo                    |                                   |
+|                     | - Collaborative features: Branching, pull requests, issue tracking         |                                              |
+| 04:50 PM - 05:00 PM | **Closing Session**                                                           | Seun Olufemi & Emmanuel Adamolekun           |
+
+
 
  
