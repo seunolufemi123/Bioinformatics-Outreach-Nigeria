@@ -44,7 +44,7 @@ BON provides a range of initiatives and resources, including:
 - **Hackathons and Codeathons:** Opportunities to participate in projects that apply bioinformatics to solve real-world problems.
 - **Publications and Outreach:** Enabling members to publish research and share insights with the larger community.
 
-### Recent Highlights
+## Recent Highlights
 
 - **Open Science for Bioinformaticians Workshop:** A two-day training session on open science practices in bioinformatics. [Materials available on Zenodo](https://zenodo.org/communities/bioinformatics-outreach-nigeria/records?q=&l=list&p=1&s=10&sort=newest).
 - **Serving as a Community Catalyst Project:** [Catalyst Project](https://catalystproject.cloud/community-partnership.html).
@@ -66,7 +66,7 @@ BON resources can be used for:
 
 ## License
 
-This project is licensed under the CC BY 4.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY 4.0 License - see the [LICENSE](https://github.com/seunolufemi123/Bioinformatics-Outreach-Nigeria/blob/main/LICENSE.md) file for details.
 
 ## Community Partners
 
