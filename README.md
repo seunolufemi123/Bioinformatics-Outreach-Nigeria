@@ -11,7 +11,7 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Community Partners and Resources](#community-partners-and-resources)
+- [Community Partners](#community-partners)
 - [Contact](#contact)
 
 ## About the Project
