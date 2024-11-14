@@ -20,7 +20,7 @@ We value the involvement of everyone in the community.
 We are committed to creating a friendly and respectful place for learning, teaching and contributing.
 All participants in our in-person events and online communications are expected to show respect and courtesy to others at all times.
 
-To make clear what is expected, everyone participating in activities associated with the Turing Way project is required to conform to this Code of Conduct.
+To make clear what is expected, everyone participating in activities associated with the Bioinformatics Outreach Nigeria  project is required to conform to this Code of Conduct.
 This Code of Conduct applies to all spaces managed by the Turing Way project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
 
 ### Contact for Reporting
@@ -36,8 +36,8 @@ As such, we do not tolerate behaviour that is disrespectful to our community mem
 We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
 
 Everyone who participates in the Bioinformatics Outreach Nigeria project activities is required to conform to this Code of Conduct.
-This Code of Conduct applies to all spaces managed by the Turing Way project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
-By participating, contributors indicate their acceptance of the procedures by which the Turing Way project core development team resolves any Code of Conduct incidents, which may include the storage and processing of their personal information.
+This Code of Conduct applies to all spaces managed by Bioinformatics Outreach Nigeria the  project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
+By participating, contributors indicate their acceptance of the procedures by which the Bioinformatics Outreach Nigeria  project core development team resolves any Code of Conduct incidents, which may include the storage and processing of their personal information.
 
 ## 2.1 Expected Behaviour
 
@@ -57,7 +57,7 @@ See [this explanation of the four social rules](https://www.recurse.com/manual#s
 
 ## 2.2 Unacceptable Behaviour
 
-Examples of unacceptable behaviour by Turing Way community members at any project event or platform include:
+Examples of unacceptable behaviour by Bioinformatics Outreach Nigeria community members at any project event or platform include:
 
 * written or verbal comments which have the effect of excluding people on the basis of membership in any specific group
 * causing someone to fear for their safety, such as through stalking, following, or intimidation
@@ -82,7 +82,7 @@ If a participant engages in behaviour that violates this Code of Conduct, any me
 ## 2.4 Feedback
 
 This Code of Conduct is not intended as a static set of rules by which everyone must abide.
-Rather, you are invited to make suggestions for updates or clarifications by contacting *seun olufemi* Core Staff Team at [oluwaseunjr1@gmail.com](oluwaseunjr1@gmail.com) or by making a pull request to this document on GitHub.
+Rather, you are invited to make suggestions for updates or clarifications by contacting *Seun Olufemi* Core Staff Team at [oluwaseunjr1@gmail.com](oluwaseunjr1@gmail.com) or by making a pull request to this document on GitHub.
 
 # 3 Incident Reporting Guidelines
 
@@ -151,7 +151,7 @@ Possible responses may include:
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
   Committee members will communicate this "time out" to the individual(s) involved.
-* A permanent or temporary ban from some or all Turing Way project spaces (like on GitHub, online calls or in-person events).
+* A permanent or temporary ban from some or all Bioinformatics Outreach Nigeria project spaces (like on GitHub, online calls or in-person events).
   The committee will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
   If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
 
