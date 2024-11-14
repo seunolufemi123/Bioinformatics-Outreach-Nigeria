@@ -8,8 +8,6 @@
 - [Objectives](#objectives)
 - [Community Initiatives](#community-initiatives)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -76,8 +74,7 @@ We are grateful to our community partners, including:
 
 - **Catalyst Project:** [Catalyst Project](https://catalystproject.cloud/community-partnership.html)
 - **Open Life Science (OLS):** [Open Life Science](https://we-are-ols.org/)
-- **PREreview:** [PREreview](https://content.prereview.org/about/)
-- **ASAPbio:** [ASAPbio](https://asapbio.org/)
+- **Bioinformatics Hub of Kenya Initiative (BHKi):** [Bioinformatics Hub of Kenya Initiative](https://github.com/LandiMi2/BHKi-Training-Activities/blob/gh-pages/index.md)
 
 ## Contact
 
@@ -85,6 +82,6 @@ Connect with Bioinformatics Outreach Nigeria to stay updated:
 
 - **LinkedIn:** [Seun Olufemi](https://www.linkedin.com/in/seunolufemi)
 - **GitHub:** [Bioinformatics Outreach Nigeria Repository](https://github.com/seunolufemi123/Bioinformatics-Outreach-Nigeria)
-- **Email:** bioinformaticsnigeria@outreach.org
+- **Email:** [Seun Olufemi](oluwaseunjr1@gmail.com), [Emmanuel Adamolekun](adamolekunoluwaseyi@gmail.com)
 
 Join us as we work together to make Nigeria, by extension Africa a leader in bioinformatics research and innovation!
