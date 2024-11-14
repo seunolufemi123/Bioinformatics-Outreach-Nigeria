@@ -25,11 +25,7 @@ This Code of Conduct applies to all spaces managed by the Turing Way project inc
 
 ### Contact for Reporting
 
-The co-leads of _Bioinformatics Outreach Nigeria_ - Seun Olufemi ([oluwaseunjr1@gmail.com](mailto:oluwaseunjr1@gmail.com)) and Emmanuel Adamolekun ([adamolekunoluwaseyi@gmail.com](mailto:adamolekunoluwaseyi@gmail.com)) - are responsible for enforcing the Code of Conduct.
-
-
-Together they form the current Code of Conduct committee.
-You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) for support in making a report to the project leads on your behalf, with or without your name associated with it.
+The co-leads of _Bioinformatics Outreach Nigeria_ - Seun Olufemi ([oluwaseunjr1@gmail.com](mailto:oluwaseunjr1@gmail.com)) and Emmanuel Adamolekun ([adamolekunoluwaseyi@gmail.com](mailto:adamolekunoluwaseyi@gmail.com)) - are responsible for enforcing the Code of Conduct. Together they form the current Code of Conduct committee.
 
 Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, and will be kept confidential.
 
@@ -92,7 +88,7 @@ Rather, you are invited to make suggestions for updates or clarifications by con
 
 ## 3.1 Contact points
 
-If you feel able to, please contact Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - who are responsible for enforcing the Code of Conduct.
+If you feel able to, please contact Seun Olufemi ([oluwaseunjr1@gmail.com](mailto:oluwaseunjr1@gmail.com)) and Emmanuel Adamolekun ([adamolekunoluwaseyi@gmail.com](mailto:adamolekunoluwaseyi@gmail.com)) - who are responsible for enforcing the Code of Conduct.
 
 ## 3.2 What to do if someone is in physical danger
 
@@ -110,7 +106,7 @@ Enforcement of the Code of Conduct should be respectful and not include any hara
 ## 4.1 Urgent Situations: Acting Unilaterally
 
 If the incident involves physical danger or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
-This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Turing Way team.
+This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Bioinformatics Outreach Nigeria team.
 
 If the act is ongoing, any community member may act immediately, before reaching a consensus, to diffuse the situation.
 In ongoing situations, any member may at their discretion employ any of the tools available in this enforcement manual, including bans and blocks online, or removal from a physical space.
@@ -138,8 +134,8 @@ In the event that a resolution can't be determined in that time, a member of the
 ## 4.4 Resolutions
 
 The CoC committee will seek to agree on a resolution by consensus of all members investigating the report in question.
-If the committee cannot reach a consensus and deadlocks for over a week, Kirstie Whitaker will break the tie.
-If any of the committee members are unable to take part in the discussion due to a conflict of interest, Anna Krystalli, as an external member of the CoC committee, will make the decision.
+If the committee cannot reach a consensus and deadlocks for over a week, Seun Olufemi will break the tie.
+If any of the committee members are unable to take part in the discussion due to a conflict of interest, XXXXXX, as an external member of the CoC committee, will make the decision.
 
 Possible responses may include:
 
@@ -150,7 +146,7 @@ Possible responses may include:
 * A private in-person conversation between a member of the committee and the individual(s) involved.
   In this case, the person who has the conversation will provide a written summary for record keeping.
 * A private written reprimand from a member of the committee to the individual(s) involved.
-  In this case, the committee member will deliver that reprimand to the individual(s) over email, cc'ing Kirstie Whitaker for record keeping.
+  In this case, the committee member will deliver that reprimand to the individual(s) over email, cc'ing Seun Olufemi for record keeping.
 * A public announcement of an incident, ideally in the same venue that the violation occurred (such as on the listserv for a listserv violation; and GitHub for a GitHub violation).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
